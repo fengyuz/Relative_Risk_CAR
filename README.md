@@ -1,6 +1,7 @@
 This repository contains the code for conducting the simulation study and data analysis for the paper: `Statistical Inference on Relative Risk under Covariate-Adaptive Randomization`, by Fengyu Zhao and Feifang Hu.
 
 **Simulation Study**
+
 As described in Section 5, we have three simulation scenarios. There are mainly four files:
 
 -Scenario_1.R contains the simulation of Case 1 and Case 2 for the first scenario, which assumes the underlying model is logistic regression
