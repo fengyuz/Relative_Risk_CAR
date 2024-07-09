@@ -10,4 +10,4 @@ As described in Section 5, we have three simulation scenarios. There are mainly 
 
 -`Re_design.R` contains the code for the re-design of COVID-19 vaccine trial
 
--`CAR_cpp.cpp` is the file to perform three Covariate adaptive randomiation - Pocock and Simon's marginal procedure (PS), the stratified permuted block design (STRPB), and Hu \& Hu's  procedures (HH)
+-`CAR_cpp.cpp` is the file to perform three Covariate adaptive randomization - Pocock and Simon's marginal procedure (PS), the stratified permuted block design (STRPB), and Hu \& Hu's  procedures (HH)
